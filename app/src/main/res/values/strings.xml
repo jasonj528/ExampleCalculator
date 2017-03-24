@@ -18,4 +18,5 @@
     <string name="divide">/</string>
     <string name="clear">CLEAR</string>
     <string name="backspace">BKSP</string>
+    <string name="eqErr">Incomplete equation</string>
 </resources>
